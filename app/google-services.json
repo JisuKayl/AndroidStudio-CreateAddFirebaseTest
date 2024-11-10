@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "123044038606",
+    "project_id": "createaddfirebase",
+    "storage_bucket": "createaddfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123044038606:android:8e455e73318e9807288d9f",
+        "android_client_info": {
+          "package_name": "com.example.createaddfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGINYUMIKzh-eQNbtiuTLQHG6JhXLTwnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
